@@ -42,3 +42,4 @@ workflows:
     jobs:
       - print-hello
       - print-world
+      - build
