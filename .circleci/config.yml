@@ -29,6 +29,5 @@ jobs:
 workflows:
   say-helloworld-workflow:
     jobs:
-      - welcome/run
       - print-hello
       - print-world
